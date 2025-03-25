@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Pieter Bikkel!  
+I'm a **fullstack developer** who enjoys building scalable and efficient applications. I love working with **Nuxt** and **NestJS**, and I'm currently part of **Team Geo at IMAGEM**, where we tackle geospatial challenges with innovative solutions.  
 
-<!--
-**pieter-imagem/pieter-imagem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack  
+- **Frontend:** Nuxt, TypeScript  
+- **Backend:** NestJS
+- **Other:** MongoDB, Docker  
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On  
+- Geospatial applications at IMAGEM  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎉 Fun Facts  
+- 🏍️ Big fan of MotoGP  
+- 🏐 Play volleyball in my free time  
+- 🍝 Love Italian food—pasta, pizza, you name it!  
